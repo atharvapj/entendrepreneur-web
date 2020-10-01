@@ -112,3 +112,7 @@ To copy the Postgres database from local hosting to Heroku hosting:
 > heroku pg:psql
 > \dt
 ```
+
+
+
+i just realised how good this is
